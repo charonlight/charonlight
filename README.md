@@ -4,13 +4,9 @@
 
 ## author is charonlight 👋
 - 🎓 CSU(master's degree)
-- 📖 [**charonlight's blog**](https://blog.csdn.net/)
-- 🔭 Computer vision(目标检测-语义分割-分类)
-## 也是统计github个人账户的star总数量等信息
+- 📖 [charonlight's blog]
+- 🔭 Computer vision
 <img src="https://github-profile-trophy.vercel.app/?username=charonlight&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
-## 统计编程语言使用比例
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charonlight&layout=compact)](https://github.com/charonlight/github-readme-stats)
-
 
 <!--
 **charonlight/charonlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
