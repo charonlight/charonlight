@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=charonlight&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ## I am charonlight
-- 🔭 I am in Hefei(合肥)
+- 🔭 I am in Hefei (合肥)
 - 👯 I hope to make friends with you
 - 💬 Welcome to learn with me
 - 😄 Wishing you happiness every day
